@@ -13,7 +13,7 @@ streamlit>=1.28.0
 
 # PDF Processing (Phase 2)
 pdf2image>=1.17.0      # PDF to image conversion
-PyPDF2>=4.0.0          # PDF reading and page counting
+PyPDF2<=3.0.1          # PDF reading and page counting
 
 # Text Processing
 pyspellchecker>=0.8.0  # Spell checking

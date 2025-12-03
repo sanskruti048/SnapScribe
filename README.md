@@ -214,22 +214,6 @@ docker run -p 8501:8501 snapscribe
 
 ---
 
-## 🛣️ Roadmap
-
-### Coming Soon
-- Handwriting OCR support
-- Confidence scoring
-- Searchable PDF export
-- 50+ languages
-
-### Future
-- Custom language training
-- Cloud storage integration
-- API access
-- Enterprise features
-
----
-
 ## 📚 Documentation
 
 - **[START_HERE.md](START_HERE.md)** - Entry point, quick orientation
@@ -291,5 +275,16 @@ Open http://localhost:8501 and start extracting text!
 
 ---
 
-Made with ❤️ by [Your Name/Organization]
+## 👩‍💻 Author
+
+**Sanskruti Sugandhi**
+*AI & Data Science Engineer*
+
+📫 **Connect:**
+
+- **GitHub:** [sanskruti048](https://github.com/sanskruti048)
+- **LinkedIn:** [Sanskruti Sugandhi](https://www.linkedin.com/in/sanskruti-sugandhi/)
+- **Blog:** [dev.to/sanskruti_sugandhi](https://dev.to/sanskruti_sugandhi)
+
+---
 
