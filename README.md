@@ -256,7 +256,6 @@ Open http://localhost:8501 and start extracting text!
 ---
 
 ## 👩‍💻 Author
-<<<<<<< HEAD
 
 **Sanskruti Sugandhi**
 *AI & Data Science Engineer*
@@ -268,8 +267,6 @@ Open http://localhost:8501 and start extracting text!
 - **Blog:** [dev.to/sanskruti_sugandhi](https://dev.to/sanskruti_sugandhi)
 
 ---
-=======
->>>>>>> e9e499973bb59e88ba92b73452ccdb82dd90df6e
 
 **Sanskruti Sugandhi**
 *AI & Data Science Engineer*
