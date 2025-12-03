@@ -193,26 +193,6 @@ See `CONFIG_EXAMPLES.md` for more options.
 
 ---
 
-## 🌐 Deployment
-
-### Streamlit Cloud (Recommended)
-
-1. Push repo to GitHub
-2. Go to [https://streamlit.io/cloud](https://streamlit.io/cloud)
-3. Connect your GitHub repo
-4. Set main file to `app.py`
-5. Deploy!
-
-Your app will be live at: `https://[your-username]-snapscribe.streamlit.app`
-
-### Docker Deployment
-
-```bash
-docker build -t snapscribe .
-docker run -p 8501:8501 snapscribe
-```
-
----
 
 ## 📚 Documentation
 
@@ -276,6 +256,7 @@ Open http://localhost:8501 and start extracting text!
 ---
 
 ## 👩‍💻 Author
+<<<<<<< HEAD
 
 **Sanskruti Sugandhi**
 *AI & Data Science Engineer*
@@ -287,4 +268,16 @@ Open http://localhost:8501 and start extracting text!
 - **Blog:** [dev.to/sanskruti_sugandhi](https://dev.to/sanskruti_sugandhi)
 
 ---
+=======
+>>>>>>> e9e499973bb59e88ba92b73452ccdb82dd90df6e
 
+**Sanskruti Sugandhi**
+*AI & Data Science Engineer*
+
+📫 **Connect:**
+
+- **GitHub:** [sanskruti048](https://github.com/sanskruti048)
+- **LinkedIn:** [Sanskruti Sugandhi](https://www.linkedin.com/in/sanskruti-sugandhi/)
+- **Blog:** [dev.to/sanskruti_sugandhi](https://dev.to/sanskruti_sugandhi)
+
+---
