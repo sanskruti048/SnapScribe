@@ -255,6 +255,8 @@ Open http://localhost:8501 and start extracting text!
 
 ---
 
+## 👩‍💻 Author
+
 **Sanskruti Sugandhi**
 *AI & Data Science Engineer*
 
