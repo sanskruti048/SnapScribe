@@ -1,0 +1,22 @@
+# SnapScribe OCR - Python Dependencies
+# Python 3.9+ required
+# Deployment: Streamlit Community Cloud compatible
+
+# Core OCR and Computer Vision
+pytesseract>=0.3.10
+opencv-python>=4.8.0
+Pillow>=10.0.0
+numpy>=1.24.0
+
+# Web UI Framework
+streamlit>=1.28.0
+
+# PDF Processing (Phase 2)
+pdf2image>=1.17.0      # PDF to image conversion
+PyPDF2>=4.0.0          # PDF reading and page counting
+
+# Text Processing
+pyspellchecker>=0.8.0  # Spell checking
+
+# Utilities
+python-dateutil>=2.8.0 # Date/time utilities
